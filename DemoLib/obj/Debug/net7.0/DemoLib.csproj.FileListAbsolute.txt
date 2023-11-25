@@ -1,0 +1,12 @@
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\bin\Debug\net7.0\DemoLib.deps.json
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\bin\Debug\net7.0\DemoLib.dll
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\bin\Debug\net7.0\DemoLib.pdb
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.csproj.AssemblyReference.cache
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.AssemblyInfoInputs.cache
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.AssemblyInfo.cs
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.dll
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\refint\DemoLib.dll
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\DemoLib.pdb
+C:\Users\User\source\samples\Patterns\MediatRDemo\DemoLib\obj\Debug\net7.0\ref\DemoLib.dll
